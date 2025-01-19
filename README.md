@@ -59,7 +59,7 @@ saucedemo_tester/
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/tamirdayan/test_automation.git
    cd saucedemo_tester
    ```
 
